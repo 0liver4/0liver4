@@ -20,8 +20,8 @@ Siempre aprendiendo, iterando y construyendo.
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=0liver4&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=0liver4&theme=github_dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0liver4&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=0liver4&theme=github_dark&hide_border=false" height="150"/>
 </p>
 
 ---

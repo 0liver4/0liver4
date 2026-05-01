@@ -1,15 +1,13 @@
 # 💫 About Me:
-💻 Desarrollador de software en formación, enfocado en construir aplicaciones funcionales, escalables y bien estructuradas.<br><br>
+💻 Estudiante de Ingeniería de Software | Frontend Developer | Aspiring QA<br><br>
 
-Experiencia en desarrollo frontend con React y backend con Node.js, Express y .NET, integrando APIs REST y gestionando datos con SQL.<br><br>
+Enfocado en construir aplicaciones funcionales, escalables y bien estructuradas usando JavaScript, React y Tailwind.<br><br>
 
-🚀 He trabajado en proyectos como sistemas de ventas, inventarios y POS, participando en todo el ciclo de desarrollo: análisis, diseño, implementación y testing (QA con Selenium y Playwright).<br><br>
+🚀 Experiencia desarrollando interfaces modernas, integrando APIs REST y participando en el ciclo completo de desarrollo: análisis, diseño, implementación y testing (QA con Selenium y Playwright).<br><br>
 
-⚡ Manejo de múltiples lenguajes (JavaScript, C#, Java, Python, C++) y herramientas modernas (Git, GitHub, Azure), con enfoque en buenas prácticas, rendimiento y experiencia de usuario.<br><br>
+⚡ Manejo de tecnologías como Node.js, Express, .NET y SQL, combinando desarrollo frontend con lógica backend para soluciones completas.<br><br>
 
-Siempre aprendiendo, iterando y construyendo.
-
-
+🔍 Interesado en calidad de software, debugging y mejora continua. Siempre aprendiendo, iterando y construyendo.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/OliverA.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olivera_09_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Oliver Tavarez Del valle) 

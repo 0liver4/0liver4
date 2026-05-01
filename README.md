@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💻 Desarrollador de software en formación, enfocado en construir aplicaciones funcionales, escalables y bien estructuradas.<br><br>
+
+Experiencia en desarrollo frontend con React y backend con Node.js, Express y .NET, integrando APIs REST y gestionando datos con SQL.<br><br>
+
+🚀 He trabajado en proyectos como sistemas de ventas, inventarios y POS, participando en todo el ciclo de desarrollo: análisis, diseño, implementación y testing (QA con Selenium y Playwright).<br><br>
+
+⚡ Manejo de múltiples lenguajes (JavaScript, C#, Java, Python, C++) y herramientas modernas (Git, GitHub, Azure), con enfoque en buenas prácticas, rendimiento y experiencia de usuario.<br><br>
+
+Siempre aprendiendo, iterando y construyendo.
+
 
 
 ## 🌐 Socials:
